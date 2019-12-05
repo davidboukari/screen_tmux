@@ -1,5 +1,6 @@
 # Cmd screen
 
+```bash
 $ screen -list
 There is a screen on:
 10504.pts-13.prod151    (Attached)
@@ -46,4 +47,4 @@ CTRL+a SHIFT+S                          --> split Verticaly
 
 CTRL+a X                               --> Remove the current region
 CTRL+a Q                               --> Remove All regions
-
+```

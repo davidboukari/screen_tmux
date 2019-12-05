@@ -1,5 +1,6 @@
 # Cmd tmux
 
+```bash
 $ tmux new  -s myname
 $ tmux ls                               --> list all session
 $ tmux a                                --> Attach to the default session
@@ -36,3 +37,4 @@ CTRL+b ALTGR+]
 CTRL+b : source-file <file>
 CTRL+b : show-buffer
 CTRL+b : list-buffer
+```
