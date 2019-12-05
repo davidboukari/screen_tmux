@@ -1,4 +1,4 @@
-# Cmd tmux
+# tmux
 
 ```bash
 $ tmux new  -s myname

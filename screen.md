@@ -1,4 +1,4 @@
-# Cmd screen
+# screen
 
 ```bash
 $ screen -list
