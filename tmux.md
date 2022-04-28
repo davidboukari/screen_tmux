@@ -21,8 +21,8 @@ CTRL+b ALTGR + [                        --> Scroll into window
 CTRL+b <-                               --> Go to window left
 CTRL+b ->                               --> Go to window right
 
-CTRL+b+<-                               --> resize window
-CTRL+b+->                               --> resize window
+maintain CTRL+b+<-                               --> resize window
+maintain CTRL+b+->                               --> resize window
 
 in the session:
 $ tmux detach                           --> Detach from the current session
